@@ -49,7 +49,6 @@ header div ul li {
     margin-left: 25px;
 }
 
-
 .hero {
     height: 800px;
     width: 100%;
@@ -64,16 +63,6 @@ header div ul li {
     display: inline-block;
     margin-left: 20px;
 }
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -86,7 +75,15 @@ header div ul li {
 .content img {
     max-height: 200px;
 }
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 #benefits {
     margin-right: 20px;
