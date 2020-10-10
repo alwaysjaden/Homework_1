@@ -57,12 +57,12 @@ body {
     background-position: center;
 }
 
-#contents {
+.contents {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-.content {
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -71,7 +71,7 @@ body {
     color: #ffffff;
 }
 
-.content img {
+.main-content img {
     max-height: 200px;
 }
 .float-left {
@@ -84,7 +84,7 @@ body {
     margin-left: 25px;
 }
 
-#benefits {
+.asidecontent {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -95,17 +95,17 @@ body {
     background-color: #2589bd;
 }
 
-.benefit {
+.asidecontent {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 {
+.asidecontent h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+.asidecontent img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
